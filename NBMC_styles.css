@@ -1,0 +1,40 @@
+@charset "UTF-8";
+header.row h2 {
+	background-position: 0% 0%;
+	text-align: center;
+	background-image: url(Tree%20Logo%20Full.jpg), -webkit-linear-gradient(270deg,rgba(38,76,112,1.00) 0%,rgba(38,76,112,1.00) 100%);
+	background-image: url(Tree%20Logo%20Full.jpg), -moz-linear-gradient(270deg,rgba(38,76,112,1.00) 0%,rgba(38,76,112,1.00) 100%);
+	background-image: url(Tree%20Logo%20Full.jpg), -o-linear-gradient(270deg,rgba(38,76,112,1.00) 0%,rgba(38,76,112,1.00) 100%);
+	background-image: url(Tree%20Logo%20Full.jpg), linear-gradient(180deg,rgba(38,76,112,1.00) 0%,rgba(38,76,112,1.00) 100%);
+	color: rgba(0,0,0,0.00);
+	height: 1.25cm;
+	background-repeat: no-repeat;
+}
+footer {
+	color: rgba(249,249,249,1.00);
+	background-color: rgba(38,76,112,1.00);
+	text-align: right;
+}
+.David .col-sm-1  {
+	background-color: rgba(175,210,245,1.00);
+}
+.Todd .col-sm-1 {
+	background-color: rgba(134,175,214,1.00);
+}
+.Emma .col-sm-1 {
+	background-color: rgba(175,210,245,1.00);
+}
+.Davidpic {
+	margin-left: 0.9cm;
+	margin-right: 0.8cm;
+	margin-top: 0.5cm;
+}
+.Toddpic {
+	margin-left: 0.9cm;
+	margin-right: 0.8cm;
+	margin-top: 1cm;
+}
+.emmapic {
+	margin-left: 0.9cm;
+	margin-right: 0.8px;
+}
